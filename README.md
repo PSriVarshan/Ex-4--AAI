@@ -67,9 +67,9 @@ print("Thye most likely sequence of weather states is :",m_l_s)
 
 ## Output:
 
-![image](https://github.com/PSriVarshan/Ex-4--AAI/assets/114944059/dca20b1c-9a73-4bbe-8e9e-499b89daf048)
+![image](https://github.com/PSriVarshan/Ex-4--AAI/assets/114944059/eb348bc8-b46b-4041-9a3d-bb1d39a91128)
 
-![image](https://github.com/PSriVarshan/Ex-4--AAI/assets/114944059/9059a61a-2158-4344-a6df-fc7de7791bb4)
+![image](https://github.com/PSriVarshan/Ex-4--AAI/assets/114944059/0f5e9064-182a-4056-a06a-b781e15712e5)
 
 
 ## Result:
